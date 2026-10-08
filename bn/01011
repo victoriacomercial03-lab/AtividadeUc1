@@ -1,0 +1,7 @@
+notas = []
+
+for i in ranger(5):
+    nota = float(input("digite uma nota"))
+    notas.append(nota)
+
+    print(nota)
